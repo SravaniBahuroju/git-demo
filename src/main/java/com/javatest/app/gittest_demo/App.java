@@ -9,6 +9,9 @@ public class App
 			System.out.println("Test if condition");
 		}
 	}
+	public void addMethod() {
+	System.out.println("new method added");
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
